@@ -15,4 +15,5 @@ With the help of two plugins:
 
 Here are few more screenshots:
 ![Rows](src/netflix/assets/row.png)
+---
 ![Trailer](src/netflix/assets/trailer.png)
